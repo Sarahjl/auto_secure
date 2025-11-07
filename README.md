@@ -22,3 +22,9 @@ Demonstrar que é possível:
 2. **Manter utilidade dos dados** para o modelo;
 3. Garantir **não-identificabilidade** através de regras estatísticas simples (ex: k-anonymity).
 
+## Integrantes
+
+- Ana Luísa Augusto do Val
+- João Enrique Barbosa Santos Alves
+- Sarah Jandozza Laurindo
+
