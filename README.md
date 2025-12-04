@@ -28,7 +28,6 @@ Demonstrar que é possível:
 - João Enrique Barbosa Santos Alves
 - Sarah Jandozza Laurindo
 
-
 # Saída
 ```
 === Modelo original ===
@@ -47,7 +46,6 @@ ROC AUC: 0.49409554482018253
 ```
 
 <img width="1018" height="478" alt="image" src="https://github.com/user-attachments/assets/1587f1c6-37e5-42de-a49a-bdf96b31fa96" />
-
 
 # Baixar executar
 ```cmd
