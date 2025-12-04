@@ -5,7 +5,7 @@
 
 ## Visão Geral
 
-**AutoSecure** é um projeto de demonstração que mostra como usar **machine learning** para prever o interesse de um cliente na compra de um tipo de carro — **sem comprometer a privacidade pessoal**.
+**AutoSecure** é um projeto de demonstração que utiliza **machine learning** para prever o interesse de clientes em determinados tipos de carros, preservando totalmente a privacidade pessoal.
 
 A aplicação simula dados de um marketplace de carros (idade, renda, comportamento de navegação, preferências etc.) para:
 - treinar um modelo preditivo (Random Forest);
